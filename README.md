@@ -10,7 +10,15 @@
 
 > A lightweight, easy-to-use forum application for building online communities.
 
----
+## 🎥 Demo
+
+Watch the video below to see Simple-Forum in action:
+
+<video src="Forum.mp4" controls width="600">
+    Your browser does not support the video tag.
+</video>
+
+> _Click the play button to watch the demo video showcasing the features and workflow of Simple-Forum._
 
 ## 🚀 Features
 
