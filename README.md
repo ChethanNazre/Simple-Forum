@@ -10,20 +10,13 @@
 
 > A lightweight, easy-to-use forum application for building online communities.
 
-## 🎥 Demo
+## 🌟 Why Simple-Forum?
 
-<div align="center" style="margin-bottom: 1em;">
-    <strong>Watch the video below to see Simple-Forum in action:</strong>
-    <br><br>
-    <video id="forum-demo" src="Forum.mp4" width="600" style="border:1px solid #ccc; border-radius:8px; background:#000;" controls>
-        Your browser does not support the video tag.
-    </video>
-    <br><br>
-    <button onclick="document.getElementById('forum-demo').play()">Play</button>
-    <button onclick="document.getElementById('forum-demo').pause()">Pause</button>
-</div>
+Simple-Forum is designed for developers and communities seeking a minimal, fast, and extensible forum solution. Whether you're building a niche community or need a discussion board for your project, Simple-Forum offers the essentials without unnecessary complexity.
 
-> _Click the play or pause button to control the demo video showcasing the features and workflow of Simple-Forum._
+<p align="center">
+    <img src="ChethanNazre/Simple-Forum/Screenshot%202025-06-09%20115139.png" alt="Simple-Forum Screenshot" width="80%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+
 
 ## 🚀 Features
 
