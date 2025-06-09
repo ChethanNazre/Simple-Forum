@@ -12,13 +12,18 @@
 
 ## 🎥 Demo
 
-Watch the video below to see Simple-Forum in action:
+<div align="center" style="margin-bottom: 1em;">
+    <strong>Watch the video below to see Simple-Forum in action:</strong>
+    <br><br>
+    <video id="forum-demo" src="Forum.mp4" width="600" style="border:1px solid #ccc; border-radius:8px; background:#000;" controls>
+        Your browser does not support the video tag.
+    </video>
+    <br><br>
+    <button onclick="document.getElementById('forum-demo').play()">Play</button>
+    <button onclick="document.getElementById('forum-demo').pause()">Pause</button>
+</div>
 
-<video src="Forum.mp4" controls width="600">
-    Your browser does not support the video tag.
-</video>
-
-> _Click the play button to watch the demo video showcasing the features and workflow of Simple-Forum._
+> _Click the play or pause button to control the demo video showcasing the features and workflow of Simple-Forum._
 
 ## 🚀 Features
 
