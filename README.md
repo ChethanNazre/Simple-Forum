@@ -15,7 +15,8 @@
 Simple-Forum is designed for developers and communities seeking a minimal, fast, and extensible forum solution. Whether you're building a niche community or need a discussion board for your project, Simple-Forum offers the essentials without unnecessary complexity.
 
 <p align="center">
-    <img src="ChethanNazre/Simple-Forum/Screenshot%202025-06-09%20115139.png" alt="Simple-Forum Screenshot" width="80%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+    <img src="https://github.com/ChethanNazre/Simple-Forum/raw/main/Screenshot%202025-06-09%20115139.png" alt="Simple-Forum Screenshot" width="80%" />
+</p>
 
 
 ## 🚀 Features
