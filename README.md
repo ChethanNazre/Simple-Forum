@@ -1,6 +1,12 @@
 # Simple-Forum
 
-![Simple-Forum Banner](https://img.shields.io/badge/Simple--Forum-Open%20Source-blue?style=for-the-badge)
+<p align="center">
+    <img src="https://img.shields.io/badge/Simple--Forum-Open%20Source-blue?style=for-the-badge" alt="Simple-Forum Open Source Badge" />
+</p>
+
+<p align="center">
+    <b>Simple-Forum</b> &mdash; Open Source, Lightweight, and Community-Driven.
+</p>
 
 > A lightweight, easy-to-use forum application for building online communities.
 
@@ -17,7 +23,9 @@
 
 ---
 
-- **Frontend**: Pure PHP, CSS (responsive design)
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS (responsive design), JavaScript, PHP
 - **Database**: MySQL (managed with phpMyAdmin)
 
 ---
