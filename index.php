@@ -28,7 +28,7 @@ $allTopics = $topics->fetchAll(PDO::FETCH_OBJ)
 							<li class="topic">
 								<div class="row">
 									<div class="col-md-2">
-										<img class="avatar pull-left" src="https://www.gravatar.com/avatar/<?php echo md5(strtolower(trim($topic->user_name))); ?>" />
+										<img class="avatar pull-left" src="https://robohash.org/<?php echo urlencode($topic->user_name); ?>.png" alt="<?php echo $topic->user_name; ?>" />
 									</div>
 									<div class="col-md-10">
 										<div class="topic-content pull-right">
